@@ -54,7 +54,8 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-Nakul Shivakumar - [Your Email](mailto:codecloudevops@outlook.com)
+Nakul Shivakumar
+[codecloudevops@outlook.com](mailto:codecloudevops@outlook.com)
 
 You can also connect with me on [Linkedin] (https://www.linkedin.com/in/nakulshivakumar)
 
